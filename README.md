@@ -1,34 +1,36 @@
 <h1 align="center">Hi there 👋, I'm Slman Zinedine</h1>
-<h3 align="center">Frontend Developer crafting fast, responsive, and SEO-optimized web applications</h3>
+<h3 align="center">Full-Stack Software Engineer building scalable web, mobile, and production-grade applications</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61261654/114380542-d3314f80-9ba7-11eb-847c-31ba132fb4b8.png" alt="Frontend Developer banner" width="100%"/>
+  <img src="https://user-images.githubusercontent.com/61261654/114380542-d3314f80-9ba7-11eb-847c-31ba132fb4b8.png" alt="Full-Stack Developer banner" width="100%"/>
 </p>
 
 ### About Me
 
-I'm a Frontend Developer with 3+ years of experience turning complex UI/UX designs into responsive, production-grade web applications. I specialize in the Next.js / React ecosystem, building role-based dashboards, multilingual platforms, and secure authentication flows for real-world client products.
+I'm a Full-Stack Software Engineer with 3+ years of experience architecting and building fast, scalable applications from end to end. I specialize in the modern web and mobile ecosystem (Next.js, React, React Native) paired with robust server-side systems (Nest.js, Express.js, PostgreSQL, MongoDB). 
 
-- 🔭 Currently building full-scale platforms with **Next.js (App Router)** — dashboards, marketplaces, and multilingual sites.
-- 🌱 Exploring **PWA / offline-first** patterns and deepening my testing practice with **Vitest** and **React Testing Library**.
-- 💡 I care about clean, maintainable, scalable architecture — feature-based structure over one-off code.
-- 🖌️ Outside of work, I enjoy experimenting with UI/UX details that make interfaces feel effortless.
+- 🔭 Currently building full-scale, production-ready platforms spanning web dashboards, mobile apps, and high-performance backend APIs.
+- 🌱 Exploring advanced system architecture, database optimization, and **AI-driven engineering workflows** to accelerate delivery.
+- 💡 I care about clean, maintainable, scalable architecture — modular component structures and secure, well-modeled backend services.
+- 🖌️ Outside of work, I enjoy experimenting with UI/UX details and system design patterns that make applications feel seamless and robust.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/slman-zinedine1) or check out my work at [slmanzinedine.vercel.app](https://slmanzinedine.vercel.app).
 
 ### Tech Stack
 
 **Languages:** JavaScript (ES6+) · TypeScript · HTML5 · CSS3
-**Frameworks & Libraries:** React.js · Next.js · TanStack Query/Table · Redux · Zustand
-**UI/UX:** Tailwind CSS · shadcn/ui · Framer Motion
-**Backend & Tools:** Node.js · Supabase · REST APIs · Git
-**Testing & Platform:** Vitest · React Testing Library · PWA · Service Workers
+**Frontend & Mobile:** React.js · Next.js · React Native · Tailwind CSS · shadcn/ui · Redux · Zustand · TanStack Query
+**Backend & Databases:** Node.js · Nest.js · Express.js · PostgreSQL · MongoDB · Redis · Supabase · REST APIs
+**DevOps & Tools:** Docker · Git · CI/CD · Vercel · GitHub Actions
+**Testing & Quality:** Vitest · React Testing Library · Playwright
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs" style="background-color:white;border-radius:4px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="35" alt="nestjs"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="tailwind"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git"/>
 </p>
