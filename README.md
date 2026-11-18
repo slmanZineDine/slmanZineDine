@@ -38,16 +38,16 @@ I'm a Full-Stack Software Engineer with 3+ years of experience architecting and 
 ### Connect With Me
 
 <p align="left">
-  <a href="https://github.com/slmanZineDine"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="35"></a>
-  <a href="https://www.linkedin.com/in/slman-zinedine1/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="35"></a>
-  <a href="https://www.facebook.com/slman.zinedine"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="35"></a>
-  <a href="https://www.youtube.com/@SlmanZinedine"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="35"></a>
-  <a href="https://slmanzinedine.vercel.app/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="35"></a>
+  <a href="https://github.com/slmanZineDine" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="35" width="40"/></a>
+  <a href="https://www.linkedin.com/in/slman-zinedine1/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="40"/></a>
+  <a href="https://www.facebook.com/slman.zinedine" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="35" width="40"/></a>
+  <a href="https://www.youtube.com/@SlmanZinedine" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="35" width="40"/></a>
+  <a href="https://slmanzinedine.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="website" height="35" width="40"/></a>
 </p>
 
 ### GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=slmanZineDine&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slmanZineDine&layout=compact&hide_border=true" alt="Top languages" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=slmanZineDine&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slmanZineDine&layout=compact&hide_border=true&theme=radical" alt="Top languages" width="48%"/>
 </p>
